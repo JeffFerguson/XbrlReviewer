@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Gepsio" Version="2.1.0.20" />
     <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components" Version="4.11.6" />
     <PackageReference Include="Microsoft.FluentUI.AspNetCore.Components.Icons" Version="4.11.6" />
   </ItemGroup>
